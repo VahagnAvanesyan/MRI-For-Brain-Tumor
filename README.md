@@ -134,7 +134,7 @@ Training and validation curves were visualized to analyze model performance.
 The trained model can predict a new MRI image:
 
 Example output:
-<img width="1" height="2" alt="image" src="https://github.com/user-attachments/assets/f464c9fa-c613-425b-b01b-16bdd36a5cc4" />
+<img width="582" height="523" alt="image" src="https://github.com/user-attachments/assets/11c2df25-f3c4-4d78-9bda-705e53e7f313" />
 
 
 
